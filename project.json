@@ -1,0 +1,22 @@
+{
+  "name": "deadlock-server-dashboard",
+  "displayName": "Deadlock Server Dashboard",
+  "programType": "server-dashboard",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Server groups",
+    "Status fields",
+    "Session records"
+  ],
+  "topics": [
+    "deadlock-server-dashboard",
+    "deadlock-tools",
+    "deadlock-menu",
+    "deadlock-settings",
+    "deadlock-configs",
+    "deadlock-server-groups",
+    "deadlock-status-fields"
+  ]
+}
